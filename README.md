@@ -1,4 +1,4 @@
-# Universe Course Management System — SQL Documentation
+# University Course Management System — SQL Documentation
 
 ## 📌 Project Objective
 
