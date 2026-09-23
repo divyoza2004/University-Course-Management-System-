@@ -1,4 +1,4 @@
-# University Course Management System — SQL Documentation
+# University Course Management System
 
 ## 📌 Project Objective
 
